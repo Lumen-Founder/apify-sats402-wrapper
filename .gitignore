@@ -1,0 +1,11 @@
+.env
+.env.*
+secrets/
+secrets-*/
+*.macaroon
+*.cert
+*.key
+seed.txt
+wallet-password.txt
+node_modules/
+npm-debug.log*

@@ -1,0 +1,16 @@
+{
+  "name": "apify-sats402-wrapper-example",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Unofficial SATS-402 wrapper proof for Apify Actor result delivery over Lightning.",
+  "scripts": {
+    "demo": "node src/demo.js",
+    "demo:fixture": "node src/demo.js --fixture",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}
