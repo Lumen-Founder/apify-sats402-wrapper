@@ -16,4 +16,4 @@ Demo:
 `npm run apify:demo -- --actor apify/rag-web-browser --query "bitcoin lightning agent payments"`
 
 Standalone repo:
-WRAPPER_REPO_URL_PLACEHOLDER
+https://github.com/Lumen-Founder/apify-sats402-wrapper

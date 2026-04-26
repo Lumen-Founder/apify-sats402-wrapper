@@ -28,6 +28,6 @@ npm run apify:demo -- --actor apify/rag-web-browser --query "bitcoin lightning a
 
 Public artifacts:
 
-- Wrapper repo: WRAPPER_REPO_URL_PLACEHOLDER
-- Apify issue: APIFY_ISSUE_URL_PLACEHOLDER
-- Draft PR: APIFY_PR_URL_PLACEHOLDER
+- Wrapper repo: https://github.com/Lumen-Founder/apify-sats402-wrapper
+- Apify issue: https://github.com/apify/apify-mcp-server/issues/756
+- Draft PR: https://github.com/apify/apify-mcp-server/pull/757

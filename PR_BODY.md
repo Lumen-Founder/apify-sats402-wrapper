@@ -8,11 +8,11 @@ Apify already leads in agentic payments with x402/Skyfire. SATS-402 demonstrates
 
 Standalone proof repo:
 
-WRAPPER_REPO_URL_PLACEHOLDER
+https://github.com/Lumen-Founder/apify-sats402-wrapper
 
 Related issue:
 
-APIFY_ISSUE_URL_PLACEHOLDER
+https://github.com/apify/apify-mcp-server/issues/756
 
 ## Notes
 

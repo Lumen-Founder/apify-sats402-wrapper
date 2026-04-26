@@ -35,6 +35,6 @@ The core proof uses:
 
 Standalone wrapper repo:
 
-WRAPPER_REPO_URL_PLACEHOLDER
+https://github.com/Lumen-Founder/apify-sats402-wrapper
 
 Would Apify maintainers be open to an optional docs/example path for this Bitcoin-native paid-delivery proof? This is not a forced merge request and can be moved, renamed, shortened, or closed if it does not fit the project direction.
